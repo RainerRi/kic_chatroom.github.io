@@ -5,7 +5,6 @@
 #### Take a look on the chatroom here:  
 [https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
 
-
 #### To create your own chatroom:
 1. Fork this repository (this makes a copy of the project in your GitHub account).
 2. In your new repository, click on the `index.html` file to open it. Then, click the pencil icon (✏️) at the top right to edit the file directly on GitHub.
@@ -14,8 +13,8 @@
 5. Finally, open the README file in the same way and update the link to point to your new Chatroom web page.
    
 *Note: It may take a few minutes for your web page to become available.*
-
----
+Your site is live at [https://rainerri.github.io/kic_chatroom.github.io/]
+Last deployed by @RainerRi RainerRi
 
 🇩🇪 **Deutsche Version**
 
@@ -30,6 +29,8 @@
 5. Öffne dann die README-Datei auf die gleiche Weise und aktualisiere den Chatroom-Link, damit er auf deine neue Chatroom-Webseite verweist.
 
 *Hinweis: Es kann ein paar Minuten dauern, bis deine Seite online ist.*
+Your site is live at [https://rainerri.github.io/kic_chatroom.github.io/]
+Last deployed by @RainerRi RainerRi
 
 
 
